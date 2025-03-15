@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#write for to work on github codespace
+
+chmod +x ./setenv
+
+python -m venv .venv
