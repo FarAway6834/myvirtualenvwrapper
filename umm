@@ -2,5 +2,6 @@
 
 #write for to work on github codespace
 
+chmod +x ./umm
 python -m owopkg.mybwb
 python -m owopkg.deploy
