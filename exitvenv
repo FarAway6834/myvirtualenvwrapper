@@ -1,1 +1,6 @@
-.deactivate
+#!/bin/sh
+
+#write for to work on github codespace
+
+chmod +x ./exitvenv
+deactivate
