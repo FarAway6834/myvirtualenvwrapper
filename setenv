@@ -2,6 +2,7 @@
 
 #write for to work on github codespace
 
+chmod +x ./setenvall
 chmod +x ./setenv
 chmod +x ./setpkg
 chmod +x ./exitvenv
