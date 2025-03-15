@@ -9,7 +9,7 @@ chmod +x ./exitvenv
 chmod +x ./umm
 
 ./setenv
-. runvenv
+. ./runvenv
 
 chmod +x ./setenvall
 chmod +x ./setenv
