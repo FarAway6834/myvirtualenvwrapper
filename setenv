@@ -3,5 +3,8 @@
 #write for to work on github codespace
 
 chmod +x ./setenv
+chmod +x ./setpkg
+chmod +x ./exitvenv
+chmod +x ./umm
 
 python -m venv .venv
