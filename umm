@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#write for to work on github codespace
+
+python -m owopkg.mybwb
+python -m owopkg.deploy
