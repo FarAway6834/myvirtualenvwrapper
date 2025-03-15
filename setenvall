@@ -1,0 +1,22 @@
+#!/bin/sh
+
+#write for to work on github codespace
+
+chmod +x ./setenvall
+chmod +x ./setenv
+chmod +x ./setpkg
+chmod +x ./exitvenv
+chmod +x ./umm
+
+./setenv
+. runvenv
+
+chmod +x ./setenvall
+chmod +x ./setenv
+chmod +x ./setpkg
+chmod +x ./exitvenv
+chmod +x ./umm
+
+./setpkg
+
+./exitvenv
