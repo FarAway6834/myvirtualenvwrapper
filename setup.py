@@ -11,12 +11,9 @@ setup(
     packages=find_packages(exclude=[]),
     install_requires=[{'posix':'virtualenvwrapper','nt':'virtualenvwrapper-win'}[__os__]],
     keywords=['myvirtualenvwrapper', 'virtualenvwrapper'],
-    python_requires='>=2.0',
+    python_requires='>=2.3',
     package_data={},
     classifiers=[
-        'Programming Language :: Python :: 2.0',
-        'Programming Language :: Python :: 2.1',
-        'Programming Language :: Python :: 2.2',
         'Programming Language :: Python :: 2.3',
         'Programming Language :: Python :: 2.4',
         'Programming Language :: Python :: 2.5',
