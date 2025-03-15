@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#write for to work on github codespace
+
+chmod +x ./setpkg
+pip download owopkg
+pip install owopkg
