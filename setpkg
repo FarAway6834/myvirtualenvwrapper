@@ -4,5 +4,6 @@
 
 chmod +x ./setpkg
 chmod +x ./exitvenv
+chmod +x ./umm
 pip download owopkg
 pip install owopkg
