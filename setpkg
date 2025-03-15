@@ -3,5 +3,6 @@
 #write for to work on github codespace
 
 chmod +x ./setpkg
+chmod +x ./exitvenv
 pip download owopkg
 pip install owopkg
